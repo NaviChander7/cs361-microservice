@@ -25,4 +25,5 @@ Query for example above:
 https://api.scryfall.com/cards/search?q=+color%3Ag+type%3Alegend+type%3Amerfolk+rarity%3Arare
 
 # UML Sequence Diagram
-![Untitled](https://user-images.githubusercontent.com/71683210/218376933-a44ef5e1-a3bc-4071-9419-920c5f71051d.png)
+
+![Untitled](https://user-images.githubusercontent.com/71683210/218377004-0f3a43e9-b5a8-4d2b-9cfb-c71e9968d674.jpg)
