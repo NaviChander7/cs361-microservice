@@ -9,11 +9,13 @@ The microservice requires one to send it a JSON object with the following attrib
 * restrictions
 
 Example
-* sampleRequest = {
+``` java script
+sampleRequest = {
     colors: 'g',
     types: ['legend', 'merfolk'],
     restrictions: ['rare']
 }
+```
 
 This request cards that are green of color, legend and merfolk type, and rare.
 
