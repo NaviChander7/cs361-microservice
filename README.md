@@ -17,7 +17,10 @@ sampleRequest = {
 }
 ```
 
-This request a query for cards that are green of color, legend and merfolk type, and rare.
+This requests a query for cards that are green of color, legend and merfolk type, and rare.
 
 # how to RECEIVE data
 The microservice will return a REST API query string to search for cards.
+
+Query for example above:
+https://api.scryfall.com/cards/search?q=+color%3Ag+type%3Alegend+type%3Amerfolk+rarity%3Arare
