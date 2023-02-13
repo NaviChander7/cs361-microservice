@@ -9,7 +9,7 @@ The microservice requires one to send it a JSON object with the following attrib
 * restrictions
 
 Example
-sampleRequest = {
+* sampleRequest = {
     colors: 'g',
     types: ['legend', 'merfolk'],
     restrictions: ['rare']
