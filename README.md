@@ -23,3 +23,5 @@ This requests a query for cards that are green of color, legend and merfolk type
 The microservice will return a REST API query string to search for cards.
 Query for example above:
 https://api.scryfall.com/cards/search?q=+color%3Ag+type%3Alegend+type%3Amerfolk+rarity%3Arare
+
+# UML Sequence Diagram
