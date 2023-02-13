@@ -26,4 +26,4 @@ https://api.scryfall.com/cards/search?q=+color%3Ag+type%3Alegend+type%3Amerfolk+
 
 # UML Sequence Diagram
 
-![Untitled](https://user-images.githubusercontent.com/71683210/218377004-0f3a43e9-b5a8-4d2b-9cfb-c71e9968d674.jpg)
+![Untitled2](https://user-images.githubusercontent.com/71683210/218590013-5c8752d7-a478-4b12-b7cf-ff4bcaafc464.jpg)
