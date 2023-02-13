@@ -8,5 +8,14 @@ The microservice requires one to send it a JSON object with the following attrib
 * types
 * restrictions
 
+Example
+sampleRequest = {
+    colors: 'g',
+    types: ['legend', 'merfolk'],
+    restrictions: ['rare']
+}
+
+This request cards that are green of color, legend and merfolk type, and rare.
+
 # how to RECEIVE data
 The microservice will return a REST API query string to search for cards.
